@@ -12,3 +12,5 @@ The main purpose of EDA is to detect any errors, outliers as well as to understa
 
 Data Analysis [EDA] involves the following brief steps:
 1.	Import libraries and load dataset
+<img align="right" alt="GIF" src="<img align="right" alt="GIF" src="" width="500" height="300"/>
+" width="500" height="300"/>
